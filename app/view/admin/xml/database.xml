@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+ 	<database id="admin">
+		<db_host>localhost</db_host>
+		<db_user>root</db_user>
+		<db_name>mvc_style</db_name>
+		<db_password>1928374655</db_password>
+	</database>
+</root>

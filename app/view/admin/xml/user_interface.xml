@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<user_interface id="61b4a64be663682e8cb037d9719ad8cd">
+		<site_title>Blog post</site_title>
+		<meta_tag>blog, meta, tag</meta_tag>
+		<copy_right>isratahamedsabbir</copy_right>
+		<icon>beauty.jpg</icon>
+		<banner>images.png</banner>
+		<slider_one>9197_bmw-limited-edition.jpg</slider_one>
+		<slider_two>267787_1796324638039_1537426370_31401448_3548224_n.jpg</slider_two>
+		<slider_three>1301170281-ferrari-f430-wallpaper-2-4dede899e738f.jpg</slider_three>
+		<facebook>http://www.google.com</facebook>
+		<twitter>http://www.google.com</twitter>
+		<linkedin>http://www.google.com</linkedin>
+		<youtube>http://www.google.com</youtube>
+		<instagram>http://www.google.com</instagram>
+		<page>qqqq</page>
+		<loop_item>5</loop_item>
+	</user_interface>
+</root>

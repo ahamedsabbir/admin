@@ -1,0 +1,43 @@
+.sidenav {
+    display: none;
+    height: 100%;
+    width: 300px;;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: black;
+    overflow-x: hidden;
+    transition: 0.5s;
+}
+.sidenav .closebtn {
+	color: #ea0000;
+	position: absolute;
+	top: 5px;
+	right: 25px;
+	color: #ea0000;
+	/* margin-left: 25px; */
+	font-size: 30px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
